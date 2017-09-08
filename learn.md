@@ -1,4 +1,7 @@
 
+
+[Principles of Distributed Computing](http://dcg.ethz.ch/lectures/podc_allstars/)
+
 [Network Programming in Go](http://jan.newmarch.name/go/)
 [libchan]
 
@@ -156,7 +159,6 @@ Causally Consistent Wide-Area Replication (TBD)
 
 [Posix - Linux Threading](http://www.cs.utexas.edu/~witchel/372/lectures/POSIX_Linux_Threading.pdf)
 
-[Principles of Distributed Computing](http://dcg.ethz.ch/lectures/podc_allstars/)
 
 [Paxos Made Simple](http://research.microsoft.com/en-us/um/people/lamport/pubs/paxos-simple.pdf)
 
